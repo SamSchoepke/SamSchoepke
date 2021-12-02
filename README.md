@@ -1,6 +1,7 @@
 - Hi, I’m Sam Schoepke
 - I’m currently a junior at the University of Wisconsin - Madison studying Computer Science and Data Science
 - I’m currently learning algorithms and statistical modeling
+- I will be taking classes on Operating Systems and Artificial Intelligence next semester (Spring 2022)
 - I have experience with Python, Java, R, C, Linux, SQL, and JavaScript
 - You can reach me at schoepke2@wisc.edu
 
